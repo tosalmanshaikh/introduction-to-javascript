@@ -7,6 +7,7 @@ const start = "Let's go!";
 // ==========================================
 // 1. Declareer een variabele om jouw naam in op te slaan en zet de waarde erin. De variabele hoeft niet meer overschreven hoeft te worden.
 // ==========================================
+
 const name = "salman";
 console.log(name);
 
@@ -21,10 +22,13 @@ console.log(colorOfYourEyes);
 // ==========================================
 let age = 31;
 console.log(age);
+
+
 // ==========================================
 // 4. Declareer een variabele om jouw beroep in op te slaan en zet de waarde erin. De variabele moet later overschreven kunnen worden.
 // ==========================================
-let occupation = "barista/chef/accountant/frontend developer to be soon?";
+
+let occupation = "barista";
 console.log(occupation);
 
 // ==========================================
@@ -33,11 +37,13 @@ console.log(occupation);
 const shoeSize = 41;
 console.log(shoeSize);
 
+
 // ==========================================
 // 6. Declareer een variabele om in op te slaan of je een partner hebt of niet. De variabele moet later overschreven kunnen worden.
 // ==========================================
-let hasPartner = true;
-console.log(hasPartner);
+
+let status = "has partner";
+console.log(status);
 
 // ==========================================
 // 7. Declareer een variabele om het aantal kinderen in op te slaan. De variabele moet later overschreven kunnen worden.
@@ -48,4 +54,5 @@ console.log(noOfChildrens);
 // ==========================================
 // 8. Gebruik jouw variabelen nu om hun waardes te loggen in de terminal. Klopt het allemaal?
 // ==========================================
-console.log(name, colorOfYourEyes, age, occupation, shoeSize,hasPartner, noOfChildrens);
+console.log(name, colorOfYourEyes, age, occupation, shoeSize,status, noOfChildrens);
+
